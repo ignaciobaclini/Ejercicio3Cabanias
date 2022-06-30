@@ -1,0 +1,76 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+} */
+body {
+    background-color: rgb(237, 236, 232);
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.nav {
+    color: rgb(220, 113, 63);
+    font-size: 20px;
+}
+
+
+h1 {
+    color: rgb(113, 85, 78);
+}
+
+h2 {
+    background-color: rgb(113, 85, 78);
+    color: white;
+}
+p {
+    color: rgb(113, 85, 78);
+
+}
+
+ul {
+    color: rgb(113, 85, 78);
+
+}
+
+.cabañas {
+    color: rgb(220, 113, 63);
+}
+
+.carpas {
+    color: rgb(220, 113, 63);
+}
+
+.bicicletas {
+    color: rgb(220, 113, 63);
+}
+
+.atencion {
+    color: rgb(113, 85, 78);
+
+}
+
+.lanacion {
+    color: rgb(104, 172, 191);
+
+}
+.pagina12 {
+    color: rgb(217, 100, 116);
+
+}
+.porqueelegirnos{
+    color: rgb(211, 174, 78);
+    
+}
+.prosegur {
+    color: rgb(220, 113, 63);
+}
+
+ol {
+    color: rgb(113, 85, 78);
+       
+}
+img {
+    width: 100%;
+}
+

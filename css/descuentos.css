@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/montañabackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    
+        background-color: #ffffff69;
+        border-color: black;
+        border-radius: 5px;
+    
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+
+}
+body {
+    background-image: url(../img/montañabackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+}
+
+section {
+    display: flex;
+    
+}
+img {
+    border: 5px solid rgb(165, 42, 42); 
+    background-color: white;
+    width: 400px;
+    height: 400px;
+}
+p {
+    font-size: 50px;
+    margin-left: 100px;
+    color: white;
+   
+}
+
+h1 {
+    font-size: 70px;
+    color: white;
+    margin-left: 100px;
+
+}
